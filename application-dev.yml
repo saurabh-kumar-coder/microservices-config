@@ -2,7 +2,7 @@
 # adding eureka duplicate code.
 spring:
   application:
-    name: Config-D
+    name: Config-Dev
 eureka:
   instance:
     prefer-ip-address: true
